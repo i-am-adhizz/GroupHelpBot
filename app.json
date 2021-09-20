@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Sushant Girdhar Moded bot . A Best Group Management bot.",
+   "description": "🎶Mᴜꜱɪᴄ_Lᴏᴠᴇʀ 🎶 Moded bot . A Best Group Management bot.",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
@@ -42,7 +42,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "sushantgirdhar"
+         "value": "i_am_adhizz"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
